@@ -45,7 +45,7 @@ body a{
 
 }
 body{
-    background: url(/images/rose.jpg);
+    background: url(../images/rose.jpg);
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     
 }
